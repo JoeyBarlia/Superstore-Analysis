@@ -2,7 +2,16 @@
 
 ## Overview
 
-This repository contains an in-depth analysis of a business's sales data, focusing on various critical dimensions. The goal of this project is to derive actionable insights and identify trends that can support decision-making in areas such as marketing, inventory management, and customer segmentation.
+This repository contains an in-depth analysis of a global superstore's sales data, focusing on various critical dimensions. The goal of this project is to derive actionable insights and identify trends that can support decision-making in areas such as marketing, inventory management, and customer segmentation.
+
+## Data
+
+The dataset is a record of purchase orders from January 1, 2011 to December 31, 2014.
+
+51,290 entries
+
+21 columns including information on customer segmentation, location, shipping, revenue, and profit. 
+
 
 ## Key Focus Areas
 
@@ -34,7 +43,7 @@ Explored trends and seasonality in sales and profit over time to guide future pl
 
 ### Customer Segmentation:
 
-Assigned customers to types based on Recency, Frequency, and Monetary (RFM) analysis to enable targeted marketing strategies.
+Assigned customers to actionable groups based on Recency, Frequency, and Monetary (RFM) analysis to enable targeted marketing strategies.
 
 
 
@@ -68,8 +77,6 @@ Assigned customers to types based on Recency, Frequency, and Monetary (RFM) anal
 ### Investigate what factors besides low cost contributed to record profit in November 2013
 
 ### Employ retention, development, recapture measures to customers according to their classification.
-
-### Customer Segments: Classified customers into actionable groups for targeted strategies.
 
 
 
